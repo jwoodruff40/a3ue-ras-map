@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="A3UE_RAS">
+    <Package name="Main">
+        <Key ID="STR_A3UE_RAS_Main_Extender_Author">
+            <Original>Creep'nCrunch</Original>
+        </Key>
+        <Key ID="STR_A3UE_RAS_Main_Extender_AuthorUrl">
+            <Original>https://github.com/jwoodruff40/a3ue-ras-map</Original>
+        </Key>
+    </Package>
+</Project>

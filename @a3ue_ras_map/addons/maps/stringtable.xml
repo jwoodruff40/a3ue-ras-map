@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="A3UE_RAS_MAPS">
+    <Package name="Maps">
+        <Key ID="STR_A3UE_RAS_Maps_MapName_Blurb">
+            <Original>Whether we wanted it or not, we stepped into a war between occupants and invaders in the Republic of Altis and Stratis.</Original>
+        </Key>
+        <Key ID="STR_A3UE_RAS_Maps_MapName_Description">
+            <Original>Be the Resistance Leader. Fight against a superior enemy in technology, number, assets and vehicles. Use guerrilla tactics in a totally dynamic world, with around 30+ sidemissions, everywhere, anytime, anything.</Original>
+        </Key>
+        <Key ID="STR_A3UE_RAS_Maps_MapName_ShortText">
+            <Original>AU - Republic of Altis and Stratis</Original>
+        </Key>
+        <Key ID="STR_A3UE_RAS_Maps_MapName_Text">
+            <Original>Antistasi Ultimate - Republic of Altis and Stratis</Original>
+        </Key>
+    </Package>
+</Project>

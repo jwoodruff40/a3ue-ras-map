@@ -1,0 +1,29 @@
+#include "..\MissionDescription\master.hpp"
+
+OnLoadName = CSTRING(MapName_ShortText);
+OnLoadMission = CSTRING(MapName_Blurb);
+briefingName = CSTRING(MapName_Text);
+overviewText = CSTRING(MapName_Description);
+loadScreen = LOAD_SCREEN_IMAGE;
+overviewPicture = OVERVIEW_IMAGE;
+
+class CfgDiscordRichPresence 
+{
+    applicationID="1270380812684230746";
+    defaultDetails="In campaign";
+    defaultState="Republic of Altis and Stratis";
+    defaultLargeImageKey="ras";
+    defaultLargeImageText="Rebelling in Republic of Altis and Stratis";
+    defaultSmallImageKey="au-logo";
+    defaultSmallImageText="Antistasi Ultimate";
+    useTimeElapsed=1;
+};
+// Vanilla Arma3 Map
+class CfgNotifications
+{
+    #include "\x\A3A\addons\maps\MissionDescription\CfgNotificationsContents.hpp"
+};
+
+class CfgDebriefing {
+    #include "\x\A3A\addons\maps\MissionDescription\CfgDebriefingContents.hpp"
+};

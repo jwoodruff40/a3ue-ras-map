@@ -1,0 +1,14 @@
+name = "[A3UE] RAS Map";
+picture = "a3ue_ras.paa";
+actionName = "Website";
+action = "https://github.com/jwoodruff40/a3ue-ras-map";
+description = "[A3UE] RAS Map v0.1.0";
+logo = "a3ue_ras.paa";
+logoOver = "a3ue_ras.paa";
+tooltip = "[A3UE] RAS Map";
+tooltipOwned = "[A3UE] RAS Map Owned";
+overview = "[A3UE] RAS Map";
+author = "Creep'nCrunch";
+overviewPicture = "a3ue_ras.paa";
+overviewText = "[A3UE] RAS Map";
+overviewFootnote = "<br /><br /><t color='#999999'>This content is under Arma Public License Share Alike (APL-SA) License.<br />Press <t /><t color='#19d3ff'>Left Shift + P<t /><t color='#999999'> to open the store page for more information.<t />";
